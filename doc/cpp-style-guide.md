@@ -97,9 +97,15 @@ API of the library, even obvious ones.
 
 ## TODO Comments
 
-Use `TODO` comments for code that is temporary, a short-term solution, or
-good-enough but not perfect. All TODO comments should reference a github issue
-and a brief description:
+Use TODO comments for code that is temporary, a short-term solution, always active, or good enough but not perfect. 
+Each TODO comment must reference a related GitHub issue and include a brief description.
+
+
+
+
+
+
+
 
 ```
 // TODO(#123) - here we need to randomize the sleep delay….
